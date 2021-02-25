@@ -1,0 +1,12 @@
+################################
+# Dune module information file #
+################################
+
+# Name of the module
+Module: interperr
+Version: 1.0
+Maintainer: jurak@math.hr
+# Required build dependencies
+Depends: dune-common dune-geometry  dune-grid dune-localfunctions dune-istl
+# Optional build dependencies
+#Suggests:
